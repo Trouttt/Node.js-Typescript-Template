@@ -1,0 +1,11 @@
+{
+  "name": "Node.js-Typescript-Template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Trouttt/Node.js-Typescript-Template.git",
+  "author": "Trouttt <44469295+Trouttt@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
